@@ -37,6 +37,6 @@ python keylogger.py
 ```
 
 ## ⚠ Disclaimer
-Use this script only in controlled environments such as penetration testing labs, with explicit permission. Misuse of this tool for unauthorized access to systems is illegal and may result in severe consequences. The risk is yours.
+Use this script only in controlled environments such as penetration testing labs, with explicit permission. Misuse of this tool for unauthorized access to systems is illegal and may result in severe consequences. **The risk is yours**.
 
 
